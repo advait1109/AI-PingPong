@@ -18,7 +18,6 @@ body
 }
 #status{
     background-color: grey;
-    width:50px;
 }
 canvas{
     box-shadow: 5px 5px 5px white;
